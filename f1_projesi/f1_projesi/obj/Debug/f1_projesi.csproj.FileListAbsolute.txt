@@ -1,0 +1,16 @@
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\bin\Debug\f1_projesi.exe.config
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\bin\Debug\f1_projesi.exe
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\bin\Debug\f1_projesi.pdb
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.csproj.AssemblyReference.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.Properties.Resources.resources
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.csproj.GenerateResource.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.exe
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.pdb
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.csproj.ResolveComReference.cache
+C:\Users\CASPER EXCALIBUR\Desktop\udemy_projeler\arac_kullanimlari\f1_projesi\f1_projesi\obj\Debug\f1_projesi.f1_game.resources
